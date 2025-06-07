@@ -77,28 +77,17 @@ header_menu: true
 <li><a href="https://www.publishersweekly.com/pw/nielsen/index.html/" target="_blank">Publishers' Weekly</a><br />
 <li><a href="https://apps.npr.org/best-books/#view=covers&year=2023" target="_blank">NPR Books We Love</a><br />
 <li><a href="https://www.nytimes.com/section/books/review" target="_blank">NY Times Book Review</a><br />
+- {{<extlink text="Bookseriesinorder" href="https://www.bookseriesinorder.com/" icon="fa fa-external-link">}}
 
 
-
-# ☝️ USEFUL TOOLS ☝️
-
-<li><a href="https://www.librarything.com/mds/" target="_blank">Dewey Decimal System</a><br />
-<li><a href="https://openlibrary.org/" target="_blank">The Open Library</a><br />
-<li><a href="https://www.librarything.com/" target="_blank">The Library Thing</a><br />
-<li><a href="https://search.worldcat.org/" target="_blank">The World Catalog</a><br />
-<li><a href="https://www.bookseriesinorder.com/" target="_blank">Book Series</a><br />
-<font face="Verdana, sans-serif" size="2">
-<li><a href="https://sandiegolawlibrary.org/" target="_blank">The Law Library</a><br />
-</font></p>
-
-
+# ☝️ USEFUL TOOLS 
+- {{<extlink text="Dewey Decimal System" href="https://www.librarything.com/mds/" icon="fa fa-external-link">}}
+- {{<extlink text="The Open Library" href="https://openlibrary.org/" icon="fa fa-external-link">}}
+- {{<extlink text="The Library Things" href="https://www.librarything.com/" icon="fa fa-external-link">}}
 
 # ☝️ USPS REFERENCE ☝️
-
 - {{<extlink text="ZIP CODE LOOK UP" href="http://zip4.usps.com/zip4/welcome.jsp" icon="fa fa-external-link">}}
 - {{<extlink text="STREET ABBREVIATIONS" href="https://pe.usps.com/text/pub28/28apc_002.htm" icon="fa fa-external-link">}}
 
-
 # ☝️ ELECTIONS ☝️
-
 - {{<extlink text="SDVOTE.ORG" href="https://www.sdvote.com/content/rov/en/elections/election_information.html" icon="fa fa-external-link">}}
