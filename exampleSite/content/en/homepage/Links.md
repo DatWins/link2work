@@ -21,7 +21,7 @@ header_menu: true
 
 #  ☝️ MOST USEFUL☝️
 
-- {{<extlink text="Intranet"="SDCL" href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Home.aspx/" icon="fa fa-external-link">}}
+- {{<extlink text="Intranet" href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Home.aspx/" icon="fa fa-external-link">}}
 - {{<extlink text="Insite Page" href="https://sdcountycagov.sharepoint.com/sites/InSite/Pages/default.aspx" icon="fa fa-external-link">}}
 - {{<extlink text="Shared Documents" href="https://sdcountycagov.sharepoint.com/sites/SDCL/BranchSites/SM/Page%20Library/Shared%20Documents.aspx" icon="fa fa-external-link">}}
 - {{<extlink text="FORMS" href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Forms.aspx" icon="fa fa-external-link">}}
