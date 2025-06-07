@@ -41,7 +41,7 @@ enableEmoji = true
     title = "Lam Library Links"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Chess Club @ San Marcos County Library"
+    description = " "
 
     # Show a menu of languages available
     language_menu = true
