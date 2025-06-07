@@ -38,7 +38,7 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Knights of the Chess Table"
+    title = "Lam Library Links"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Chess Club @ San Marcos County Library"
