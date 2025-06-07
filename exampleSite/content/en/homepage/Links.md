@@ -5,6 +5,8 @@ navigation_menu_title: "Essentials"
 weight: 1
 header_menu: true
 ---
+# This is the collection of links commonly used. The most important ones are ones on the front menu. Press CONTROL + THE LINKS to go on another page.
+
 #   ☝️ Most IMPORTANT ☝️
 
 - {{<extlink text="SDCL" href="http://sdcl.org/" icon="fa fa-external-link">}}
