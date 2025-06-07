@@ -9,7 +9,7 @@ header_use_video: false
 
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Knights of the Chess Table"
+header_headline: "Library Links"
 header_subheadline: " "
 
 # Add a 'Go back to top' item to the navigation menu
