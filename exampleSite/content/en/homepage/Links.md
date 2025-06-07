@@ -1,8 +1,8 @@
 ---
-title: "The Services I Offer"
-header_menu_title: "Services"
-navigation_menu_title: "My Services"
-weight: 2
+title: "Essential Links"
+header_menu_title: "Links"
+navigation_menu_title: "Essentials"
+weight: 1
 header_menu: true
 ---
 
