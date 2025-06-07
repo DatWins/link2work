@@ -41,9 +41,7 @@ header_menu: true
 - {{<extlink text="NICHE ACADEMY" href="https://my.nicheacademy.com/sandiego-staff/course/42197/lesson/134893" icon="fa fa-external-link">}}
 - {{<extlink text="LEAP TRAINING" href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/SitePages/Training%20Resources.aspx" icon="fa fa-external-link">}}
 
-
 #  ☝️ INSTRUCTIONS
-
 - {{<extlink text="BRANCH PROCEDURES" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/SitePages/Home.aspx" icon="fa fa-external-link">}}
 - {{<extlink text="INN-REACH PROCESSING" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/Shared%20Documents/INN-Reach%20Processing.pdf" icon="fa fa-external-link">}}
 - {{<extlink text="LAST COPY PROCESSING" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/Shared%20Documents/Last%20Copy%20in%20System.pdf" icon="fa fa-external-link">}}
@@ -52,33 +50,16 @@ header_menu: true
 - {{<extlink text="BRANCH PROCEDURES" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/SitePages/Home.aspx" icon="fa fa-external-link">}}
 - {{<extlink text="BRANCH PROCEDURES" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/SitePages/Home.aspx" icon="fa fa-external-link">}}
 
-
-
 #  ☝️ FORMS
-
 - {{<extlink text="INTERNET / DVD CONSENT FORM" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Shared%20Documents/Internet%20and%20DVD%20Parental%20Consent%20-%20English%20and%20Spanish.pdf" icon="fa fa-external-link">}}
 - {{<extlink text="LIBRARY CARD APPLICATION" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Shared%20Documents/Library%20Card%20Application%20-%20English%20and%20Spanish.pdf" icon="fa fa-external-link">}}
 
-
-# ☝️ CUSTOMER EXPERIENCES
-
-<li><a href="https://sdcountycagov.sharepoint.com/sites/InSite/fg3/dhr/Pages/DHR%20Programs/Customer-Service-Program.aspx " target="_blank">SD County Customer Experience</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/InSite/fg3/dhr/DHR%20Documents/CEI/Customer%20Experience%20Initiative_Full%20Sheet%20FINAL.pdf" target="_blank">Customer Experience Initiative</a><br />	
-<li><a href="https://sdcountycagov.sharepoint.com/sites/InSite/fg3/dhr/DHR%20Documents/C3_AmbassadorJourney_10_16_2014.pdf
-" target="_blank">Positive Approach = Positive Experience</a><br />
-<li><a href="https://sdcountycagov.sharepoint.com/sites/SDCL/BranchSites/SM/Shared%20Documents/Customer%20Service/heat%20with%20heart.pdf" target="_blank">HEART Xperience</a></li>	
-
-
-
 # ☝️ BOOKLIST 
-
-<li><a href="https://www.powells.com/staff-picks" target="_blank">Powell Books' List</a><br />
-<li><a href="https://bookriot.com/" target="_blank">BookRiot Blog</a><br />
-<li><a href="https://www.publishersweekly.com/pw/nielsen/index.html/" target="_blank">Publishers' Weekly</a><br />
-<li><a href="https://apps.npr.org/best-books/#view=covers&year=2023" target="_blank">NPR Books We Love</a><br />
-<li><a href="https://www.nytimes.com/section/books/review" target="_blank">NY Times Book Review</a><br />
 - {{<extlink text="Bookseriesinorder" href="https://www.bookseriesinorder.com/" icon="fa fa-external-link">}}
-
+- {{<extlink text="Powell Books' List" href="https://www.powells.com/staff-picks" icon="fa fa-external-link">}}
+- {{<extlink text="BookRiot Blog" href="https://bookriot.com/" icon="fa fa-external-link">}}
+- {{<extlink text="Literary HUb" href="https://lithub.com/" icon="fa fa-external-link">}}
+- {{<extlink text="Crime Reads" href="https://crimereads.com/" icon="fa fa-external-link">}}
 
 # ☝️ USEFUL TOOLS 
 - {{<extlink text="Dewey Decimal System" href="https://www.librarything.com/mds/" icon="fa fa-external-link">}}
