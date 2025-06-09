@@ -46,9 +46,6 @@ header_menu: true
 - {{<extlink text="INN-REACH PROCESSING" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/Shared%20Documents/INN-Reach%20Processing.pdf" icon="fa fa-external-link">}}
 - {{<extlink text="LAST COPY PROCESSING" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/Shared%20Documents/Last%20Copy%20in%20System.pdf" icon="fa fa-external-link">}}
 - {{<extlink text="ON THE FLY PROCESSING" href="https://sdcountycagov.sharepoint.com/sites/SDCL/ILSInfo/Shared%20Documents/LEAP%20Adding%20On%20the%20Fly%20Records.pdf" icon="fa fa-external-link">}}
-- {{<extlink text="BRANCH PROCEDURES" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/SitePages/Home.aspx" icon="fa fa-external-link">}}
-- {{<extlink text="BRANCH PROCEDURES" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/SitePages/Home.aspx" icon="fa fa-external-link">}}
-- {{<extlink text="BRANCH PROCEDURES" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/SitePages/Home.aspx" icon="fa fa-external-link">}}
 
 #  ☝️ FORMS
 - {{<extlink text="INTERNET / DVD CONSENT FORM" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Shared%20Documents/Internet%20and%20DVD%20Parental%20Consent%20-%20English%20and%20Spanish.pdf" icon="fa fa-external-link">}}
@@ -60,6 +57,7 @@ header_menu: true
 - {{<extlink text="BookRiot Blog" href="https://bookriot.com/" icon="fa fa-external-link">}}
 - {{<extlink text="Literary HUb" href="https://lithub.com/" icon="fa fa-external-link">}}
 - {{<extlink text="Crime Reads" href="https://crimereads.com/" icon="fa fa-external-link">}}
+- {{<extlink text="Vocal Book Club" href="https://vocal.media/bookclub" icon="fa fa-external-link">}}
 
 # ☝️ USEFUL TOOLS 
 - {{<extlink text="Dewey Decimal System" href="https://www.librarything.com/mds/" icon="fa fa-external-link">}}
