@@ -64,9 +64,9 @@ header_menu: true
 - {{<extlink text="The Open Library" href="https://openlibrary.org/" icon="fa fa-external-link">}}
 - {{<extlink text="The Library Things" href="https://www.librarything.com/" icon="fa fa-external-link">}}
 
-# ☝️ USPS REFERENCE ☝️
+# ☝️ USPS REFERENCE 
 - {{<extlink text="ZIP CODE LOOK UP" href="http://zip4.usps.com/zip4/welcome.jsp" icon="fa fa-external-link">}}
 - {{<extlink text="STREET ABBREVIATIONS" href="https://pe.usps.com/text/pub28/28apc_002.htm" icon="fa fa-external-link">}}
 
-# ☝️ ELECTIONS ☝️
+# ☝️ ELECTIONS 
 - {{<extlink text="SDVOTE.ORG" href="https://www.sdvote.com/content/rov/en/elections/election_information.html" icon="fa fa-external-link">}}
