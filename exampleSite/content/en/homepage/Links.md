@@ -20,6 +20,9 @@ header_menu: true
 - {{<extlink text="Branch Calendar" href="https://www.canva.com/design/DAFmlLAq9zw/Z5TmbzAECWHdILhN31-t4g/view?utm_content=DAFmlLAq9zw&utm_campaign=designshare&utm_medium=link&utm_source=editor" icon="fa fa-external-link">}}
 
 
+#  ☝️ WHAT I DO
+- {{<extlink text="Lost and Found" href="https://sdcountycagov.sharepoint.com/sites/SDCL/Procedures/Shared%20Documents/Lost%20and%20Found%20-%20Instructions.pdf#search=Lost%20and%20Found" icon="fa fa-external-link">}}
+
 #  ☝️ MOST USEFUL
 
 - {{<extlink text="Intranet" href="https://sdcountycagov.sharepoint.com/sites/SDCL/SitePages/Home.aspx/" icon="fa fa-external-link">}}
